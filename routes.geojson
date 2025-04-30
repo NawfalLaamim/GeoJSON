@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 1,
+                "Codeid": 1,
+                "NomTopo": "Boulevard Wilfrid-Lavigne",
+                "DirecUniq": "Oui",
+                "LimiteVit": 50,
+                "Azimut": 352,
+                "idCentro": 1,
+                "CentroideGeom": "0x00000000010C39B95B6984B3464071D4C0459DF552C0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.83772415,
+                    45.40247838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": 2,
+                "Codeid": 1,
+                "NomTopo": "Boulevard Wilfrid-Lavigne",
+                "DirecUniq": "Oui",
+                "LimiteVit": 50,
+                "Azimut": 352,
+                "idCentro": 10,
+                "CentroideGeom": "0x00000000010CAAB748D29CB3464032365B169FF552C0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.83783492,
+                    45.40322331
+                ]
+            }
+        }
+    ]
+}
